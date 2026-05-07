@@ -1,0 +1,22 @@
+[     617ms] [WARNING] A preload for 'https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js' is found, but is not used because the request credentials mode does not match. Consider taking a look at crossorigin attribute. @ https://vapeportugal.pt/:0
+[    2190ms] [LOG] no cart offer @ https://cdn.shopify.com/extensions/019ddd10-ddf2-70b1-99a1-1dcd6989c144/bundle-app-171-160/assets/bundle_panda.js:0
+[    2191ms] [LOG] initialize @ https://cdn.shopify.com/extensions/019ddd10-ddf2-70b1-99a1-1dcd6989c144/bundle-app-171-160/assets/bundle_panda.js:0
+[    2192ms] [LOG] no cart offer @ https://cdn.shopify.com/extensions/019ddd10-ddf2-70b1-99a1-1dcd6989c144/bundle-app-171-160/assets/bundle_panda.js:0
+[    2775ms] [ERROR] Framing 'https://shop.app/' violates the following Content Security Policy directive: "frame-ancestors https://q1h4fy-tj.myshopify.com https://q1h4fy-tj.account.myshopify.com https://shopify.com". The request has been blocked.
+ @ :0
+[    2987ms] [LOG] PBOfferUI loaded {Template1UI: , Template2UI: , Template3UI: , Template4UI: , BTemplate1UI: } @ https://cdn.shopify.com/extensions/019ddd10-ddf2-70b1-99a1-1dcd6989c144/bundle-app-171-160/assets/bundle_panda.js:0
+[    3561ms] [LOG] %c AV script loaded  
+  background: linear-gradient(152deg, #1a8629 0%, #1a8629 65%, #0a5c15 100%);
+  color: white;
+  font-size: 11px;
+  padding: 4px 8px;
+  font-weight: bold;
+  border-radius: 20px;
+   @ https://av.perfect-app.app/storefront-script/q1h4fy-tj.myshopify.com.js?shop=q1h4fy-tj.myshopify.com:12
+[    7378ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0
+[   12184ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0
+[   40719ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0
+[   46538ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0
+[   60227ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0
+[   78927ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0
+[   83847ms] [WARNING] The resource https://cdn.shopify.com/extensions/019db92d-c7a5-7448-8297-f820b28a81c0/menufrontend-314/assets/globo.menu.replace.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://vapeportugal.pt/:0

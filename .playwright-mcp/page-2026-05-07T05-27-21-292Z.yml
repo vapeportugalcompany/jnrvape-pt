@@ -1,0 +1,226 @@
+- generic [active] [ref=e1]:
+  - link "Scroll to top" [ref=e2] [cursor=pointer]:
+    - /url: https://api.whatsapp.com/send?phone=351935718678
+    - generic:
+      - text: Fale connosco!
+      - text: Online das 6:00 às 18:00
+    - generic [ref=e3]: "1"
+    - img [ref=e4]
+  - link "Telegram Chat" [ref=e10] [cursor=pointer]:
+    - /url: https://t.me/Vape_Portugal
+    - generic:
+      - text: Fale connosco!
+      - text: Online das 6:00 às 18:00
+    - generic [ref=e11]: "1"
+    - img [ref=e12]
+  - banner [ref=e17]:
+    - link "Logótipo VapePortugal loja de vape descartável em Portugal" [ref=e18] [cursor=pointer]:
+      - /url: /
+      - img "Logótipo VapePortugal loja de vape descartável em Portugal" [ref=e20]
+    - navigation [ref=e21]:
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - link "VAPSOLO VAPSOLO" [ref=e24] [cursor=pointer]:
+            - /url: /collections/vapsolo-vapes-descartaveis-portugal
+            - img "VAPSOLO" [ref=e26]
+            - generic [ref=e27]: VAPSOLO
+        - listitem [ref=e28]:
+          - link "JNR JNR" [ref=e29] [cursor=pointer]:
+            - /url: /collections/jnr-vapes-descartaveis-portugal
+            - img "JNR" [ref=e31]
+            - generic [ref=e32]: JNR
+        - listitem [ref=e33]:
+          - link "FUMOT FUMOT" [ref=e34] [cursor=pointer]:
+            - /url: /collections/fumot-vapes-descartaveis-portugal
+            - img "FUMOT" [ref=e36]
+            - generic [ref=e37]: FUMOT
+        - listitem [ref=e38]:
+          - link "MerryMi MerryMi" [ref=e39] [cursor=pointer]:
+            - /url: /collections/merrymi-vape-descartaveis-portugal
+            - img "MerryMi" [ref=e41]
+            - generic [ref=e42]: MerryMi
+        - listitem [ref=e43]:
+          - link "ADALYA ADALYA" [ref=e44] [cursor=pointer]:
+            - /url: /collections/adalya-vapes-descartaveis-portugal
+            - img "ADALYA" [ref=e46]
+            - generic [ref=e47]: ADALYA
+        - listitem [ref=e48]:
+          - link "AL FAKHER AL FAKHER" [ref=e49] [cursor=pointer]:
+            - /url: /collections/al-fakher-vapes-descartaveis-portugal
+            - img "AL FAKHER" [ref=e51]
+            - generic [ref=e52]: AL FAKHER
+        - listitem [ref=e53]:
+          - link "AIRMEZ AIRMEZ" [ref=e54] [cursor=pointer]:
+            - /url: /collections/airmez-vapes-descartaveis-portugal
+            - img "AIRMEZ" [ref=e56]
+            - generic [ref=e57]: AIRMEZ
+        - listitem [ref=e58]:
+          - link "BLUR BLUR" [ref=e59] [cursor=pointer]:
+            - /url: /collections/blur-vapes-descartaveis-portugal
+            - img "BLUR" [ref=e61]
+            - generic [ref=e62]: BLUR
+        - listitem [ref=e63]:
+          - link "GHOST GHOST" [ref=e64] [cursor=pointer]:
+            - /url: /collections/ghost-vapes-descartaveis-portugal
+            - img "GHOST" [ref=e66]
+            - generic [ref=e67]: GHOST
+        - listitem [ref=e68]:
+          - link "HAYATI HAYATI" [ref=e69] [cursor=pointer]:
+            - /url: /collections/hayati-vapes-descartaveis-portugal
+            - img "HAYATI" [ref=e71]
+            - generic [ref=e72]: HAYATI
+        - listitem [ref=e73]:
+          - link "VOZOL VOZOL" [ref=e74] [cursor=pointer]:
+            - /url: /collections/vozol-vapes-descartaveis-portugal
+            - img "VOZOL" [ref=e76]
+            - generic [ref=e77]: VOZOL
+        - listitem [ref=e78]:
+          - link "IMOMENT IMOMENT" [ref=e79] [cursor=pointer]:
+            - /url: /collections/imoment-vapes-descartaveis-portugal
+            - img "IMOMENT" [ref=e81]
+            - generic [ref=e82]: IMOMENT
+        - listitem [ref=e83]:
+          - link "SPACEMAN SPACEMAN" [ref=e84] [cursor=pointer]:
+            - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+            - img "SPACEMAN" [ref=e86]
+            - generic [ref=e87]: SPACEMAN
+        - listitem [ref=e88]:
+          - link "SNUS SNUS" [ref=e89] [cursor=pointer]:
+            - /url: /collections/snus-saquetas-nicotina-portugal
+            - img "SNUS" [ref=e91]
+            - generic [ref=e92]: SNUS
+        - listitem [ref=e93]:
+          - link "LIQUIDOS LIQUIDOS" [ref=e94] [cursor=pointer]:
+            - /url: /collections/liquids-sais-nicotina-portugal
+            - img "LIQUIDOS" [ref=e96]
+            - generic [ref=e97]: LIQUIDOS
+        - listitem [ref=e98]:
+          - link "SEM NICOTINA SEM NICOTINA" [ref=e99] [cursor=pointer]:
+            - /url: /collections/vapes-descartaveis-sem-nicotina-portugal
+            - img "SEM NICOTINA" [ref=e101]
+            - generic [ref=e102]: SEM NICOTINA
+        - listitem [ref=e103]:
+          - link "LIQUIDAÇÃO LIQUIDAÇÃO" [ref=e104] [cursor=pointer]:
+            - /url: /collections/liquidacao-vapes-descartaveis-portugal
+            - img "LIQUIDAÇÃO" [ref=e106]
+            - generic [ref=e107]: LIQUIDAÇÃO
+        - listitem [ref=e108]:
+          - link "MUITAS TRAGADAS MUITAS TRAGADAS " [ref=e109] [cursor=pointer]:
+            - /url: /collections/vapes-descartaveis-ate-120k-tragadas-portugal
+            - img "MUITAS TRAGADAS" [ref=e111]
+            - generic [ref=e112]: MUITAS TRAGADAS
+            - generic [ref=e113]: 
+    - generic [ref=e114]:
+      - group [ref=e116]:
+        - button "Pesquisar" [ref=e117] [cursor=pointer]:
+          - img [ref=e120]
+      - link "Carrinho" [ref=e122] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=e124]
+        - generic [ref=e126]: Carrinho
+  - main [ref=e127]:
+    - generic [ref=e129]:
+      - paragraph [ref=e130]: "404"
+      - heading "Página não encontrada" [level=1] [ref=e131]
+      - link "Continuar a comprar" [ref=e132] [cursor=pointer]:
+        - /url: /collections/all
+  - generic [ref=e135]:
+    - generic [ref=e136]:
+      - generic [ref=e137]:
+        - heading "As Nossas Marcas" [level=3] [ref=e138]
+        - list [ref=e140]:
+          - listitem [ref=e141]:
+            - link "VAPSOLO" [ref=e142] [cursor=pointer]:
+              - /url: /collections/vapsolo-vapes-descartaveis-portugal
+          - listitem [ref=e143]:
+            - link "JNR" [ref=e144] [cursor=pointer]:
+              - /url: /collections/jnr-vapes-descartaveis-portugal
+          - listitem [ref=e145]:
+            - link "FUMOT" [ref=e146] [cursor=pointer]:
+              - /url: /collections/fumot-vapes-descartaveis-portugal
+          - listitem [ref=e147]:
+            - link "MERRYMI" [ref=e148] [cursor=pointer]:
+              - /url: /collections/merrymi-vape-descartaveis-portugal
+          - listitem [ref=e149]:
+            - link "ADALYA" [ref=e150] [cursor=pointer]:
+              - /url: /collections/adalya-vapes-descartaveis-portugal
+          - listitem [ref=e151]:
+            - link "AL FAKHER" [ref=e152] [cursor=pointer]:
+              - /url: /collections/al-fakher-vapes-descartaveis-portugal
+          - listitem [ref=e153]:
+            - link "BLUR" [ref=e154] [cursor=pointer]:
+              - /url: /collections/blur-vapes-descartaveis-portugal
+          - listitem [ref=e155]:
+            - link "HAYATI" [ref=e156] [cursor=pointer]:
+              - /url: /collections/hayati-vapes-descartaveis-portugal
+          - listitem [ref=e157]:
+            - link "GHOST" [ref=e158] [cursor=pointer]:
+              - /url: /collections/ghost-vapes-descartaveis-portugal
+          - listitem [ref=e159]:
+            - link "VOZOL" [ref=e160] [cursor=pointer]:
+              - /url: /collections/vozol-vapes-descartaveis-portugal
+          - listitem [ref=e161]:
+            - link "AIRMEZ" [ref=e162] [cursor=pointer]:
+              - /url: /collections/airmez-vapes-descartaveis-portugal
+          - listitem [ref=e163]:
+            - link "SPACEMAN" [ref=e164] [cursor=pointer]:
+              - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+          - listitem [ref=e165]:
+            - link "ELUX" [ref=e166] [cursor=pointer]:
+              - /url: /collections
+          - listitem [ref=e167]:
+            - link "WGA" [ref=e168] [cursor=pointer]:
+              - /url: /collections
+          - listitem [ref=e169]:
+            - link "ELFBAR" [ref=e170] [cursor=pointer]:
+              - /url: /collections
+      - generic [ref=e171]:
+        - heading "Informação útil" [level=3] [ref=e172]
+        - generic [ref=e173]:
+          - listitem [ref=e174]:
+            - link "Envios" [ref=e175] [cursor=pointer]:
+              - /url: /pages/envios
+          - listitem [ref=e176]:
+            - link "Informações Legais" [ref=e177] [cursor=pointer]:
+              - /url: /pages/informacoes-legais
+          - listitem [ref=e178]:
+            - link "Termos e condições" [ref=e179] [cursor=pointer]:
+              - /url: /pages/termos-e-condicoes
+          - listitem [ref=e180]:
+            - link "Política de privacidade" [ref=e181] [cursor=pointer]:
+              - /url: /pages/politica-de-privacidade
+          - listitem [ref=e182]:
+            - link "Política de devoluções" [ref=e183] [cursor=pointer]:
+              - /url: /pages/politica-de-devolucoes
+          - listitem [ref=e184]:
+            - link "Perguntas frequentes" [ref=e185] [cursor=pointer]:
+              - /url: /pages/perguntas-frequentes
+          - listitem [ref=e186]:
+            - link "Contacto" [ref=e187] [cursor=pointer]:
+              - /url: /pages/contacto
+          - listitem [ref=e188]:
+            - link "Sobre nós" [ref=e189] [cursor=pointer]:
+              - /url: /pages/sobre-nos
+          - listitem [ref=e190]:
+            - link "Blog" [ref=e191] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e192]:
+            - link "Vapes descartáveis em Portugal" [ref=e193] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e194]:
+            - link "Confiam em nós" [ref=e195] [cursor=pointer]:
+              - /url: /pages/confiam-em-nos
+      - generic [ref=e196]:
+        - heading "Subscreva a nossa newsletter" [level=3] [ref=e197]
+        - generic [ref=e200]:
+          - textbox "correio eletrónico" [ref=e201]
+          - button "➞" [ref=e202] [cursor=pointer]
+    - generic [ref=e204]:
+      - img "Payment method" [ref=e205]
+      - img "Payment method" [ref=e206]
+      - img "Payment method" [ref=e207]
+      - img "Payment method" [ref=e208]
+      - img "Payment method" [ref=e209]
+      - img "Payment method" [ref=e210]
+    - generic [ref=e212]: © 2026 VapePortugal.pt Loja de vapes descartáveis em Portugal.
+  - img "Europe vape Descartaveil Portugal" [ref=e215]

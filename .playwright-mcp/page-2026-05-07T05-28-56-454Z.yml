@@ -1,0 +1,519 @@
+- generic [active] [ref=e1]:
+  - link "Scroll to top" [ref=e2] [cursor=pointer]:
+    - /url: https://api.whatsapp.com/send?phone=351935718678
+    - generic:
+      - text: Fale connosco!
+      - text: Online das 6:00 às 18:00
+    - generic [ref=e3]: "1"
+    - img [ref=e4]
+  - link "Telegram Chat" [ref=e10] [cursor=pointer]:
+    - /url: https://t.me/Vape_Portugal
+    - generic:
+      - text: Fale connosco!
+      - text: Online das 6:00 às 18:00
+    - generic [ref=e11]: "1"
+    - img [ref=e12]
+  - banner [ref=e17]:
+    - link "Logótipo VapePortugal loja de vape descartável em Portugal" [ref=e18] [cursor=pointer]:
+      - /url: /
+      - img "Logótipo VapePortugal loja de vape descartável em Portugal" [ref=e20]
+    - navigation [ref=e21]:
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - link "VAPSOLO VAPSOLO" [ref=e24] [cursor=pointer]:
+            - /url: /collections/vapsolo-vapes-descartaveis-portugal
+            - img "VAPSOLO" [ref=e26]
+            - generic [ref=e27]: VAPSOLO
+        - listitem [ref=e28]:
+          - link "JNR JNR" [ref=e29] [cursor=pointer]:
+            - /url: /collections/jnr-vapes-descartaveis-portugal
+            - img "JNR" [ref=e31]
+            - generic [ref=e32]: JNR
+        - listitem [ref=e33]:
+          - link "FUMOT FUMOT" [ref=e34] [cursor=pointer]:
+            - /url: /collections/fumot-vapes-descartaveis-portugal
+            - img "FUMOT" [ref=e36]
+            - generic [ref=e37]: FUMOT
+        - listitem [ref=e38]:
+          - link "MerryMi MerryMi" [ref=e39] [cursor=pointer]:
+            - /url: /collections/merrymi-vape-descartaveis-portugal
+            - img "MerryMi" [ref=e41]
+            - generic [ref=e42]: MerryMi
+        - listitem [ref=e43]:
+          - link "ADALYA ADALYA" [ref=e44] [cursor=pointer]:
+            - /url: /collections/adalya-vapes-descartaveis-portugal
+            - img "ADALYA" [ref=e46]
+            - generic [ref=e47]: ADALYA
+        - listitem [ref=e48]:
+          - link "AL FAKHER AL FAKHER" [ref=e49] [cursor=pointer]:
+            - /url: /collections/al-fakher-vapes-descartaveis-portugal
+            - img "AL FAKHER" [ref=e51]
+            - generic [ref=e52]: AL FAKHER
+        - listitem [ref=e53]:
+          - link "AIRMEZ AIRMEZ" [ref=e54] [cursor=pointer]:
+            - /url: /collections/airmez-vapes-descartaveis-portugal
+            - img "AIRMEZ" [ref=e56]
+            - generic [ref=e57]: AIRMEZ
+        - listitem [ref=e58]:
+          - link "BLUR BLUR" [ref=e59] [cursor=pointer]:
+            - /url: /collections/blur-vapes-descartaveis-portugal
+            - img "BLUR" [ref=e61]
+            - generic [ref=e62]: BLUR
+        - listitem [ref=e63]:
+          - link "GHOST GHOST" [ref=e64] [cursor=pointer]:
+            - /url: /collections/ghost-vapes-descartaveis-portugal
+            - img "GHOST" [ref=e66]
+            - generic [ref=e67]: GHOST
+        - listitem [ref=e68]:
+          - link "HAYATI HAYATI" [ref=e69] [cursor=pointer]:
+            - /url: /collections/hayati-vapes-descartaveis-portugal
+            - img "HAYATI" [ref=e71]
+            - generic [ref=e72]: HAYATI
+        - listitem [ref=e73]:
+          - link "VOZOL VOZOL" [ref=e74] [cursor=pointer]:
+            - /url: /collections/vozol-vapes-descartaveis-portugal
+            - img "VOZOL" [ref=e76]
+            - generic [ref=e77]: VOZOL
+        - listitem [ref=e78]:
+          - link "IMOMENT IMOMENT" [ref=e79] [cursor=pointer]:
+            - /url: /collections/imoment-vapes-descartaveis-portugal
+            - img "IMOMENT" [ref=e81]
+            - generic [ref=e82]: IMOMENT
+        - listitem [ref=e83]:
+          - link "SPACEMAN SPACEMAN" [ref=e84] [cursor=pointer]:
+            - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+            - img "SPACEMAN" [ref=e86]
+            - generic [ref=e87]: SPACEMAN
+        - listitem [ref=e88]:
+          - link "SNUS SNUS" [ref=e89] [cursor=pointer]:
+            - /url: /collections/snus-saquetas-nicotina-portugal
+            - img "SNUS" [ref=e91]
+            - generic [ref=e92]: SNUS
+        - listitem [ref=e93]:
+          - link "LIQUIDOS LIQUIDOS" [ref=e94] [cursor=pointer]:
+            - /url: /collections/liquids-sais-nicotina-portugal
+            - img "LIQUIDOS" [ref=e96]
+            - generic [ref=e97]: LIQUIDOS
+        - listitem [ref=e98]:
+          - link "SEM NICOTINA SEM NICOTINA" [ref=e99] [cursor=pointer]:
+            - /url: /collections/vapes-descartaveis-sem-nicotina-portugal
+            - img "SEM NICOTINA" [ref=e101]
+            - generic [ref=e102]: SEM NICOTINA
+        - listitem [ref=e103]:
+          - link "LIQUIDAÇÃO LIQUIDAÇÃO" [ref=e104] [cursor=pointer]:
+            - /url: /collections/liquidacao-vapes-descartaveis-portugal
+            - img "LIQUIDAÇÃO" [ref=e106]
+            - generic [ref=e107]: LIQUIDAÇÃO
+        - listitem [ref=e108]:
+          - link "MUITAS TRAGADAS MUITAS TRAGADAS " [ref=e109] [cursor=pointer]:
+            - /url: /collections/vapes-descartaveis-ate-120k-tragadas-portugal
+            - img "MUITAS TRAGADAS" [ref=e111]
+            - generic [ref=e112]: MUITAS TRAGADAS
+            - generic [ref=e113]: 
+    - generic [ref=e114]:
+      - group [ref=e116]:
+        - button "Pesquisar" [ref=e117] [cursor=pointer]:
+          - img [ref=e120]
+      - link "Carrinho" [ref=e122] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=e124]
+        - generic [ref=e126]: Carrinho
+  - main [ref=e127]:
+    - generic [ref=e129]:
+      - generic [ref=e132]:
+        - paragraph [ref=e134]: Entrega grátis 📦🇵🇹 - 3 a 5 dias úteis
+        - button "Previous slide" [ref=e135] [cursor=pointer]:
+          - img [ref=e136]
+        - button "Next slide" [ref=e138] [cursor=pointer]:
+          - img [ref=e139]
+      - generic [ref=e142]:
+        - heading "🔥 Bem-vindo!" [level=2] [ref=e143]
+        - generic [ref=e144]: 💰 -10% + Envio grátis
+        - 'button "🔥 Código ativo: BEM10" [ref=e146] [cursor=pointer]':
+          - generic [ref=e147]: "🔥 Código ativo: BEM10"
+    - heading "JNR Vape Descartáveis" [level=2] [ref=e153]
+    - generic [ref=e158]:
+      - list [ref=e159]:
+        - listitem [ref=e160]:
+          - generic [ref=e162]:
+            - generic [ref=e163]:
+              - generic [ref=e164]:
+                - generic [ref=e166]: Nova Chegada
+                - generic [ref=e167]:
+                  - img "Vape descartável JNR Rage Gorilla sabor Strawberry Ice 55000 puffs 55K tragadas mais barato" [ref=e168]
+                  - img "Vape descartável JNR Rage Gorilla 55000 puffs 55K tragadas mais barato" [ref=e169]
+              - generic [ref=e172]: Descontos até -50%
+            - generic [ref=e173]:
+              - generic [ref=e174]:
+                - heading "JNR RageGorilla 55K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e175]:
+                  - link "JNR RageGorilla 55K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e176] [cursor=pointer]:
+                    - /url: /products/jnr-ragegorilla-55k-vape-descartavel-portugal
+                    - text: JNR RageGorilla 55K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e177]:
+                  - generic [ref=e178]: JNR
+                  - generic [ref=e181]:
+                    - generic [ref=e182]: Preço normal
+                    - generic [ref=e184]: €35,00 EUR
+                    - generic [ref=e185]: Preço de saldo
+                    - generic [ref=e186]: €29,50 EUR
+              - button "Escolher sabores JNR RageGorilla 55K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e189] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e190]:
+          - generic [ref=e192]:
+            - generic [ref=e193]:
+              - generic [ref=e195]:
+                - img "Vape descartável JNR Leopard sabor Mixed Berry 40000 puffs 40K tragadas mais barato" [ref=e196]
+                - img "Vape descartável JNR Leopard 40000 puffs 40K tragadas mais barato" [ref=e197]
+              - generic [ref=e200]: Descontos até -50%
+            - generic [ref=e201]:
+              - generic [ref=e202]:
+                - heading "JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e203]:
+                  - link "JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e204] [cursor=pointer]:
+                    - /url: /products/jnr-leopard-40k-vape-descartavel-portugal
+                    - text: JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e205]:
+                  - generic [ref=e206]: JNR
+                  - generic [ref=e209]:
+                    - generic [ref=e210]: Preço normal
+                    - generic [ref=e212]: €31,00 EUR
+                    - generic [ref=e213]: Preço de saldo
+                    - generic [ref=e214]: €26,00 EUR
+              - button "Escolher sabores JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e217] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e218]:
+          - generic [ref=e220]:
+            - generic [ref=e221]:
+              - generic [ref=e223]:
+                - img "Vape descartável JNR Falcon Bar 48K sabor Mixed Berry 48.000 puffs 48K tragadas mais barato" [ref=e224]
+                - img "Vape descartável JNR Falcon Bar 48K com 48.000 puffs 48K tragadas com o preço mais barato" [ref=e225]
+              - generic [ref=e228]: Descontos até -50%
+            - generic [ref=e229]:
+              - generic [ref=e230]:
+                - heading "JNR Falcon Bar 48K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e231]:
+                  - link "JNR Falcon Bar 48K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e232] [cursor=pointer]:
+                    - /url: /products/jnr-falcon-bar-48k-vape-descartavel-portugal
+                    - text: JNR Falcon Bar 48K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e233]:
+                  - generic [ref=e234]: JNR
+                  - generic [ref=e237]:
+                    - generic [ref=e238]: Preço normal
+                    - generic [ref=e240]: €31,00 EUR
+                    - generic [ref=e241]: Preço de saldo
+                    - generic [ref=e242]: €26,00 EUR
+              - button "Escolher sabores JNR Falcon Bar 48K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e245] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e246]:
+          - generic [ref=e248]:
+            - generic [ref=e249]:
+              - generic [ref=e251]:
+                - img "Vape descartável JNR Falcon Pro 28K sabor White Peach Razz 28000 puffs 28K tragadas mais barato" [ref=e252]
+                - img "Vape descartável JNR Falcon Pro 28K 28000 puffs 28K tragadas mais barato em Portugal" [ref=e253]
+              - generic [ref=e256]: Descontos até -50%
+            - generic [ref=e257]:
+              - generic [ref=e258]:
+                - heading "JNR Falcon Pro 28K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e259]:
+                  - link "JNR Falcon Pro 28K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e260] [cursor=pointer]:
+                    - /url: /products/jnr-falcon-pro-28k-vape-descartavel-portugal
+                    - text: JNR Falcon Pro 28K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e261]:
+                  - generic [ref=e262]: JNR
+                  - generic [ref=e265]:
+                    - generic [ref=e266]: Preço normal
+                    - generic [ref=e268]: €32,00 EUR
+                    - generic [ref=e269]: Preço de saldo
+                    - generic [ref=e270]: €26,50 EUR
+              - button "Escolher sabores JNR Falcon Pro 28K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e273] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e274]:
+          - generic [ref=e276]:
+            - generic [ref=e277]:
+              - generic [ref=e279]:
+                - img "Vape descartável JNR Alien 10K sabor Cool Mint 10000 puffs 10K tragadas mais barato" [ref=e280]
+                - img "Vape descartável JNR Alien 10K vários sabores 10000 puffs 10K tragadas mais barato" [ref=e281]
+              - generic [ref=e284]: Descontos até -50%
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - heading "JNR Alien 10K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e287]:
+                  - link "JNR Alien 10K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e288] [cursor=pointer]:
+                    - /url: /products/jnr-alien-10k-vape-descartavel-portugal
+                    - text: JNR Alien 10K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e289]:
+                  - generic [ref=e290]: JNR
+                  - generic [ref=e293]:
+                    - generic [ref=e294]: Preço normal
+                    - generic [ref=e296]: €26,90 EUR
+                    - generic [ref=e297]: Preço de saldo
+                    - generic [ref=e298]: €16,90 EUR
+              - button "Escolher sabores JNR Alien 10K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e301] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e302]:
+          - generic [ref=e304]:
+            - generic [ref=e305]:
+              - generic [ref=e307]:
+                - img "Vape descartável JNR Falcon 16K sabor Pink Lemon 16000 puffs 16K tragadas mais barato" [ref=e308]
+                - img "Vape descartável JNR Falcon 16K 16000 puffs 16K tragadas mais barato" [ref=e309]
+              - generic [ref=e312]: Descontos até -50%
+            - generic [ref=e313]:
+              - generic [ref=e314]:
+                - heading "JNR Falcon 16K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e315]:
+                  - link "JNR Falcon 16K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e316] [cursor=pointer]:
+                    - /url: /products/jnr-falcon-16k-vape-descartavel-portugal
+                    - text: JNR Falcon 16K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e317]:
+                  - generic [ref=e318]: JNR
+                  - generic [ref=e321]:
+                    - generic [ref=e322]: Preço normal
+                    - generic [ref=e324]: €25,00 EUR
+                    - generic [ref=e325]: Preço de saldo
+                    - generic [ref=e326]: €19,50 EUR
+              - button "Escolher sabores JNR Falcon 16K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e329] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e330]:
+          - generic [ref=e332]:
+            - generic [ref=e333]:
+              - generic [ref=e335]:
+                - img "Vape descartável JNR Falcon X 18K sabor Banana Ice 18000 puffs 18K tragadas mais barato" [ref=e336]
+                - img "Vape descartável JNR Falcon X 18K sem sabor definido 18000 puffs 18K tragadas mais barato" [ref=e337]
+              - generic [ref=e340]: Descontos até -50%
+            - generic [ref=e341]:
+              - generic [ref=e342]:
+                - heading "JNR Falcon X 18K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e343]:
+                  - link "JNR Falcon X 18K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e344] [cursor=pointer]:
+                    - /url: /products/jnr-falcon-x-18k-vape-descartavel-portugal
+                    - text: JNR Falcon X 18K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e345]:
+                  - generic [ref=e346]: JNR
+                  - generic [ref=e349]:
+                    - generic [ref=e350]: Preço normal
+                    - generic [ref=e352]: €27,00 EUR
+                    - generic [ref=e353]: Preço de saldo
+                    - generic [ref=e354]: €22,00 EUR
+              - button "Escolher sabores JNR Falcon X 18K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e357] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e358]:
+          - generic [ref=e360]:
+            - generic [ref=e361]:
+              - generic [ref=e363]:
+                - img "Vape descartável JNR Mega Box 25K sabor Triple Mango 25000 puffs 25K tragadas mais barato" [ref=e364]
+                - img "Vape descartável JNR Mega Box 25K em vários sabores 25000 puffs 25K tragadas mais barato" [ref=e365]
+              - generic [ref=e368]: Esgotado
+            - generic [ref=e369]:
+              - generic [ref=e370]:
+                - heading "JNR Mega Box 25K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e371]:
+                  - link "JNR Mega Box 25K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e372] [cursor=pointer]:
+                    - /url: /products/jnr-mega-box-25k-vape-descartavel-portugal
+                    - text: JNR Mega Box 25K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e373]:
+                  - generic [ref=e374]: JNR
+                  - generic [ref=e377]:
+                    - generic [ref=e378]: Preço normal
+                    - generic [ref=e380]: €30,00 EUR
+                    - generic [ref=e381]: Preço de saldo
+                    - generic [ref=e382]: €25,00 EUR
+              - generic [ref=e385]:
+                - button "Esgotado JNR Mega Box 25K Puffs | Vape Descartável Portugal 2% Nicotina" [disabled]:
+                  - generic: Esgotado
+        - listitem [ref=e386]:
+          - generic [ref=e388]:
+            - generic [ref=e389]:
+              - generic [ref=e391]:
+                - img "Vape descartável JNR Mega Box Pro sabor Watermelon Ice 50000 puffs 50K tragadas mais barato" [ref=e392]
+                - img "Vape descartável JNR Mega Box Pro 50000 puffs 50K tragadas mais barato em Portugal" [ref=e393]
+              - generic [ref=e396]: Esgotado
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - heading "JNR Mega Box Pro 50K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e399]:
+                  - link "JNR Mega Box Pro 50K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e400] [cursor=pointer]:
+                    - /url: /products/jnr-mega-box-pro-50k-vape-descartavel-portugal
+                    - text: JNR Mega Box Pro 50K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e401]:
+                  - generic [ref=e402]: JNR
+                  - generic [ref=e405]:
+                    - generic [ref=e406]: Preço normal
+                    - generic [ref=e408]: €34,50 EUR
+                    - generic [ref=e409]: Preço de saldo
+                    - generic [ref=e410]: €29,50 EUR
+              - generic [ref=e413]:
+                - button "Esgotado JNR Mega Box Pro 50K Puffs | Vape Descartável Portugal 2% Nicotina" [disabled]:
+                  - generic: Esgotado
+        - listitem [ref=e414]:
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - generic [ref=e419]:
+                - img "Vape descartável JNR Shisha Hookah Max 22K sabor Berry Ice 22000 puffs 22K tragadas mais barato" [ref=e420]
+                - img "Vape descartável JNR Shisha Hookah Max 22K 22000 puffs 22K tragadas mais barato" [ref=e421]
+              - generic [ref=e424]: Esgotado
+            - generic [ref=e425]:
+              - generic [ref=e426]:
+                - heading "JNR Shisha Hookah Max 22K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e427]:
+                  - link "JNR Shisha Hookah Max 22K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e428] [cursor=pointer]:
+                    - /url: /products/jnr-shisha-hookah-max-22k-vape-descartavel-portugal
+                    - text: JNR Shisha Hookah Max 22K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e429]:
+                  - generic [ref=e430]: JNR
+                  - generic [ref=e433]:
+                    - generic [ref=e434]: Preço normal
+                    - generic [ref=e436]: €27,50 EUR
+                    - generic [ref=e437]: Preço de saldo
+                    - generic [ref=e438]: €22,50 EUR
+              - generic [ref=e441]:
+                - button "Esgotado JNR Shisha Hookah Max 22K Puffs | Vape Descartável Portugal 2% Nicotina" [disabled]:
+                  - generic: Esgotado
+        - listitem [ref=e442]:
+          - generic [ref=e444]:
+            - generic [ref=e445]:
+              - generic [ref=e446]:
+                - generic [ref=e448]: 3 em 1
+                - generic [ref=e449]:
+                  - img "Vape descartável JNR Triple 3 em 1 110K sabores Blue Razz Cherry, Blue Razz Ice e Black Ice 110000 puffs 110K tragadas mais barato" [ref=e450]
+                  - img "Vape descartável JNR Triple 3 em 1 110K em vários sabores 110000 puffs 110K tragadas mais barato" [ref=e451]
+              - generic [ref=e454]: Esgotado
+            - generic [ref=e455]:
+              - generic [ref=e456]:
+                - heading "JNR Triple 110K Puffs | Vape Descartável 3 em 1 Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e457]:
+                  - link "JNR Triple 110K Puffs | Vape Descartável 3 em 1 Portugal 2% Nicotina Descontos até -50%" [ref=e458] [cursor=pointer]:
+                    - /url: /products/jnr-triple-110k-vape-descartavel-portugal
+                    - text: JNR Triple 110K Puffs | Vape Descartável 3 em 1 Portugal 2% Nicotina
+                - generic [ref=e459]:
+                  - generic [ref=e460]: JNR
+                  - generic [ref=e463]:
+                    - generic [ref=e464]: Preço normal
+                    - generic [ref=e466]: €38,00 EUR
+                    - generic [ref=e467]: Preço de saldo
+                    - generic [ref=e468]: €33,00 EUR
+              - generic [ref=e471]:
+                - button "Esgotado JNR Triple 110K Puffs | Vape Descartável 3 em 1 Portugal 2% Nicotina" [disabled]:
+                  - generic: Esgotado
+        - listitem [ref=e472]:
+          - generic [ref=e474]:
+            - generic [ref=e475]:
+              - generic [ref=e476]:
+                - generic [ref=e478]: 4 em 1
+                - generic [ref=e479]:
+                  - img "Vape descartável JNR Quads 4 em 1 120K sabores Raspberry Orange, Blueberry Sour Raspberry, JNR VC Boost e JNR Red Punch 120000 puffs 120K tragadas mais barato" [ref=e480]
+                  - img "Vape descartável JNR Quads 4 em 1 120K em vários sabores 120000 puffs 120K tragadas mais barato" [ref=e481]
+              - generic [ref=e484]: Esgotado
+            - generic [ref=e485]:
+              - generic [ref=e486]:
+                - heading "JNR Quads 120K Puffs | Vape Descartável 4 em 1 Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e487]:
+                  - link "JNR Quads 120K Puffs | Vape Descartável 4 em 1 Portugal 2% Nicotina Descontos até -50%" [ref=e488] [cursor=pointer]:
+                    - /url: /products/jnr-quads-120k-vape-descartavel-portugal
+                    - text: JNR Quads 120K Puffs | Vape Descartável 4 em 1 Portugal 2% Nicotina
+                - generic [ref=e489]:
+                  - generic [ref=e490]: JNR
+                  - generic [ref=e493]:
+                    - generic [ref=e494]: Preço normal
+                    - generic [ref=e496]: €45,00 EUR
+                    - generic [ref=e497]: Preço de saldo
+                    - generic [ref=e498]: €39,50 EUR
+              - generic [ref=e501]:
+                - button "Esgotado JNR Quads 120K Puffs | Vape Descartável 4 em 1 Portugal 2% Nicotina" [disabled]:
+                  - generic: Esgotado
+      - navigation "Paginação" [ref=e503]:
+        - list [ref=e504]:
+          - listitem [ref=e505]:
+            - link "Página 1" [disabled] [ref=e506]: "1"
+          - listitem [ref=e507]:
+            - link "Página 2" [ref=e508] [cursor=pointer]:
+              - /url: /collections/jnr-vapes-descartaveis-portugal?page=2
+              - text: "2"
+          - listitem [ref=e509]:
+            - link "Página seguinte" [ref=e510] [cursor=pointer]:
+              - /url: /collections/jnr-vapes-descartaveis-portugal?page=2
+              - img [ref=e512]
+    - generic [ref=e519]:
+      - text: Descubra a revolução do vape com a JNR, uma marca que redefine os limites da autonomia e do sabor. Sob o lema "Just No Reason", a JNR oferece te...
+      - button "Ver mais" [ref=e520] [cursor=pointer]
+  - generic [ref=e523]:
+    - generic [ref=e524]:
+      - generic [ref=e525]:
+        - heading "As Nossas Marcas" [level=3] [ref=e526]
+        - list [ref=e528]:
+          - listitem [ref=e529]:
+            - link "VAPSOLO" [ref=e530] [cursor=pointer]:
+              - /url: /collections/vapsolo-vapes-descartaveis-portugal
+          - listitem [ref=e531]:
+            - link "JNR" [ref=e532] [cursor=pointer]:
+              - /url: /collections/jnr-vapes-descartaveis-portugal
+          - listitem [ref=e533]:
+            - link "FUMOT" [ref=e534] [cursor=pointer]:
+              - /url: /collections/fumot-vapes-descartaveis-portugal
+          - listitem [ref=e535]:
+            - link "MERRYMI" [ref=e536] [cursor=pointer]:
+              - /url: /collections/merrymi-vape-descartaveis-portugal
+          - listitem [ref=e537]:
+            - link "ADALYA" [ref=e538] [cursor=pointer]:
+              - /url: /collections/adalya-vapes-descartaveis-portugal
+          - listitem [ref=e539]:
+            - link "AL FAKHER" [ref=e540] [cursor=pointer]:
+              - /url: /collections/al-fakher-vapes-descartaveis-portugal
+          - listitem [ref=e541]:
+            - link "BLUR" [ref=e542] [cursor=pointer]:
+              - /url: /collections/blur-vapes-descartaveis-portugal
+          - listitem [ref=e543]:
+            - link "HAYATI" [ref=e544] [cursor=pointer]:
+              - /url: /collections/hayati-vapes-descartaveis-portugal
+          - listitem [ref=e545]:
+            - link "GHOST" [ref=e546] [cursor=pointer]:
+              - /url: /collections/ghost-vapes-descartaveis-portugal
+          - listitem [ref=e547]:
+            - link "VOZOL" [ref=e548] [cursor=pointer]:
+              - /url: /collections/vozol-vapes-descartaveis-portugal
+          - listitem [ref=e549]:
+            - link "AIRMEZ" [ref=e550] [cursor=pointer]:
+              - /url: /collections/airmez-vapes-descartaveis-portugal
+          - listitem [ref=e551]:
+            - link "SPACEMAN" [ref=e552] [cursor=pointer]:
+              - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+          - listitem [ref=e553]:
+            - link "ELUX" [ref=e554] [cursor=pointer]:
+              - /url: /collections
+          - listitem [ref=e555]:
+            - link "WGA" [ref=e556] [cursor=pointer]:
+              - /url: /collections
+          - listitem [ref=e557]:
+            - link "ELFBAR" [ref=e558] [cursor=pointer]:
+              - /url: /collections
+      - generic [ref=e559]:
+        - heading "Informação útil" [level=3] [ref=e560]
+        - generic [ref=e561]:
+          - listitem [ref=e562]:
+            - link "Envios" [ref=e563] [cursor=pointer]:
+              - /url: /pages/envios
+          - listitem [ref=e564]:
+            - link "Informações Legais" [ref=e565] [cursor=pointer]:
+              - /url: /pages/informacoes-legais
+          - listitem [ref=e566]:
+            - link "Termos e condições" [ref=e567] [cursor=pointer]:
+              - /url: /pages/termos-e-condicoes
+          - listitem [ref=e568]:
+            - link "Política de privacidade" [ref=e569] [cursor=pointer]:
+              - /url: /pages/politica-de-privacidade
+          - listitem [ref=e570]:
+            - link "Política de devoluções" [ref=e571] [cursor=pointer]:
+              - /url: /pages/politica-de-devolucoes
+          - listitem [ref=e572]:
+            - link "Perguntas frequentes" [ref=e573] [cursor=pointer]:
+              - /url: /pages/perguntas-frequentes
+          - listitem [ref=e574]:
+            - link "Contacto" [ref=e575] [cursor=pointer]:
+              - /url: /pages/contacto
+          - listitem [ref=e576]:
+            - link "Sobre nós" [ref=e577] [cursor=pointer]:
+              - /url: /pages/sobre-nos
+          - listitem [ref=e578]:
+            - link "Blog" [ref=e579] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e580]:
+            - link "Vapes descartáveis em Portugal" [ref=e581] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e582]:
+            - link "Confiam em nós" [ref=e583] [cursor=pointer]:
+              - /url: /pages/confiam-em-nos
+      - generic [ref=e584]:
+        - heading "Subscreva a nossa newsletter" [level=3] [ref=e585]
+        - generic [ref=e588]:
+          - textbox "correio eletrónico" [ref=e589]
+          - button "➞" [ref=e590] [cursor=pointer]
+    - generic [ref=e592]:
+      - img "Payment method" [ref=e593]
+      - img "Payment method" [ref=e594]
+      - img "Payment method" [ref=e595]
+      - img "Payment method" [ref=e596]
+      - img "Payment method" [ref=e597]
+      - img "Payment method" [ref=e598]
+    - generic [ref=e600]: © 2026 VapePortugal.pt Loja de vapes descartáveis em Portugal.
+  - img "Europe vape Descartaveil Portugal" [ref=e603]

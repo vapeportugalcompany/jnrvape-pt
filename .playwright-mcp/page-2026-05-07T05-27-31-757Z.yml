@@ -1,0 +1,626 @@
+- generic [active] [ref=e1]:
+  - link "Scroll to top" [ref=e2] [cursor=pointer]:
+    - /url: https://api.whatsapp.com/send?phone=351935718678
+    - generic:
+      - text: Fale connosco!
+      - text: Online das 6:00 às 18:00
+    - generic [ref=e3]: "1"
+    - img [ref=e4]
+  - link "Telegram Chat" [ref=e10] [cursor=pointer]:
+    - /url: https://t.me/Vape_Portugal
+    - generic:
+      - text: Fale connosco!
+      - text: Online das 6:00 às 18:00
+    - generic [ref=e11]: "1"
+    - img [ref=e12]
+  - banner [ref=e16]:
+    - heading "Logótipo VapePortugal loja de vape descartável em Portugal" [level=1] [ref=e17]:
+      - link "Logótipo VapePortugal loja de vape descartável em Portugal" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - img "Logótipo VapePortugal loja de vape descartável em Portugal" [ref=e20]
+    - navigation [ref=e21]:
+      - list [ref=e22]:
+        - listitem [ref=e23]:
+          - link "VAPSOLO VAPSOLO" [ref=e24] [cursor=pointer]:
+            - /url: /collections/vapsolo-vapes-descartaveis-portugal
+            - img "VAPSOLO" [ref=e26]
+            - generic [ref=e27]: VAPSOLO
+        - listitem [ref=e28]:
+          - link "JNR JNR" [ref=e29] [cursor=pointer]:
+            - /url: /collections/jnr-vapes-descartaveis-portugal
+            - img "JNR" [ref=e31]
+            - generic [ref=e32]: JNR
+        - listitem [ref=e33]:
+          - link "FUMOT FUMOT" [ref=e34] [cursor=pointer]:
+            - /url: /collections/fumot-vapes-descartaveis-portugal
+            - img "FUMOT" [ref=e36]
+            - generic [ref=e37]: FUMOT
+        - listitem [ref=e38]:
+          - link "MerryMi MerryMi" [ref=e39] [cursor=pointer]:
+            - /url: /collections/merrymi-vape-descartaveis-portugal
+            - img "MerryMi" [ref=e41]
+            - generic [ref=e42]: MerryMi
+        - listitem [ref=e43]:
+          - link "ADALYA ADALYA" [ref=e44] [cursor=pointer]:
+            - /url: /collections/adalya-vapes-descartaveis-portugal
+            - img "ADALYA" [ref=e46]
+            - generic [ref=e47]: ADALYA
+        - listitem [ref=e48]:
+          - link "AL FAKHER AL FAKHER" [ref=e49] [cursor=pointer]:
+            - /url: /collections/al-fakher-vapes-descartaveis-portugal
+            - img "AL FAKHER" [ref=e51]
+            - generic [ref=e52]: AL FAKHER
+        - listitem [ref=e53]:
+          - link "AIRMEZ AIRMEZ" [ref=e54] [cursor=pointer]:
+            - /url: /collections/airmez-vapes-descartaveis-portugal
+            - img "AIRMEZ" [ref=e56]
+            - generic [ref=e57]: AIRMEZ
+        - listitem [ref=e58]:
+          - link "BLUR BLUR" [ref=e59] [cursor=pointer]:
+            - /url: /collections/blur-vapes-descartaveis-portugal
+            - img "BLUR" [ref=e61]
+            - generic [ref=e62]: BLUR
+        - listitem [ref=e63]:
+          - link "GHOST GHOST" [ref=e64] [cursor=pointer]:
+            - /url: /collections/ghost-vapes-descartaveis-portugal
+            - img "GHOST" [ref=e66]
+            - generic [ref=e67]: GHOST
+        - listitem [ref=e68]:
+          - link "HAYATI HAYATI" [ref=e69] [cursor=pointer]:
+            - /url: /collections/hayati-vapes-descartaveis-portugal
+            - img "HAYATI" [ref=e71]
+            - generic [ref=e72]: HAYATI
+        - listitem [ref=e73]:
+          - link "VOZOL VOZOL" [ref=e74] [cursor=pointer]:
+            - /url: /collections/vozol-vapes-descartaveis-portugal
+            - img "VOZOL" [ref=e76]
+            - generic [ref=e77]: VOZOL
+        - listitem [ref=e78]:
+          - link "IMOMENT IMOMENT" [ref=e79] [cursor=pointer]:
+            - /url: /collections/imoment-vapes-descartaveis-portugal
+            - img "IMOMENT" [ref=e81]
+            - generic [ref=e82]: IMOMENT
+        - listitem [ref=e83]:
+          - link "SPACEMAN SPACEMAN" [ref=e84] [cursor=pointer]:
+            - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+            - img "SPACEMAN" [ref=e86]
+            - generic [ref=e87]: SPACEMAN
+        - listitem [ref=e88]:
+          - link "SNUS SNUS" [ref=e89] [cursor=pointer]:
+            - /url: /collections/snus-saquetas-nicotina-portugal
+            - img "SNUS" [ref=e91]
+            - generic [ref=e92]: SNUS
+        - listitem [ref=e93]:
+          - link "LIQUIDOS LIQUIDOS" [ref=e94] [cursor=pointer]:
+            - /url: /collections/liquids-sais-nicotina-portugal
+            - img "LIQUIDOS" [ref=e96]
+            - generic [ref=e97]: LIQUIDOS
+        - listitem [ref=e98]:
+          - link "SEM NICOTINA SEM NICOTINA" [ref=e99] [cursor=pointer]:
+            - /url: /collections/vapes-descartaveis-sem-nicotina-portugal
+            - img "SEM NICOTINA" [ref=e101]
+            - generic [ref=e102]: SEM NICOTINA
+        - listitem [ref=e103]:
+          - link "LIQUIDAÇÃO LIQUIDAÇÃO" [ref=e104] [cursor=pointer]:
+            - /url: /collections/liquidacao-vapes-descartaveis-portugal
+            - img "LIQUIDAÇÃO" [ref=e106]
+            - generic [ref=e107]: LIQUIDAÇÃO
+        - listitem [ref=e108]:
+          - link "MUITAS TRAGADAS MUITAS TRAGADAS " [ref=e109] [cursor=pointer]:
+            - /url: /collections/vapes-descartaveis-ate-120k-tragadas-portugal
+            - img "MUITAS TRAGADAS" [ref=e111]
+            - generic [ref=e112]: MUITAS TRAGADAS
+            - generic [ref=e113]: 
+    - generic [ref=e114]:
+      - group [ref=e116]:
+        - button "Pesquisar" [ref=e117] [cursor=pointer]:
+          - img [ref=e120]
+      - link "Carrinho" [ref=e122] [cursor=pointer]:
+        - /url: /cart
+        - img [ref=e124]
+        - generic [ref=e126]: Carrinho
+  - main [ref=e127]:
+    - generic [ref=e129]:
+      - generic [ref=e131]:
+        - img "Vapes descartáveis premium em Portugal na vapeportugal.pt com ofertas exclusivas de vape descartável" [ref=e133]
+        - button "🔥 BEM10 🔥" [ref=e135] [cursor=pointer]:
+          - generic [ref=e136]: 🔥
+          - text: BEM10
+          - generic [ref=e137]: 🔥
+      - button "Previous slide" [ref=e138] [cursor=pointer]:
+        - img [ref=e139]
+      - button "Next slide" [ref=e141] [cursor=pointer]:
+        - img [ref=e142]
+      - generic [ref=e144]:
+        - button "Go to slide 1" [ref=e145] [cursor=pointer]
+        - button "Go to slide 2" [ref=e146] [cursor=pointer]
+        - button "Go to slide 3" [ref=e147] [cursor=pointer]
+        - button "Go to slide 4" [ref=e148] [cursor=pointer]
+    - generic [ref=e150]:
+      - generic [ref=e153]:
+        - paragraph [ref=e155]: Entrega grátis 📦🇵🇹 - 3 a 5 dias úteis
+        - button "Previous slide" [ref=e156] [cursor=pointer]:
+          - img [ref=e157]
+        - button "Next slide" [ref=e159] [cursor=pointer]:
+          - img [ref=e160]
+      - generic [ref=e163]:
+        - heading "Bem-vindo!" [level=2] [ref=e164]
+        - generic [ref=e165]: 💰 -10% + Envio grátis
+        - 'button "🔥 Código ativo: BEM10" [ref=e167] [cursor=pointer]':
+          - generic [ref=e168]: "🔥 Código ativo: BEM10"
+    - generic [ref=e171]:
+      - heading "Mais Vendidos" [level=2] [ref=e173]
+      - list "Slider" [ref=e175]:
+        - listitem [ref=e176]:
+          - generic [ref=e178]:
+            - generic [ref=e179]:
+              - generic [ref=e180]:
+                - generic [ref=e182]: Nova Chegada
+                - generic [ref=e183]:
+                  - img "Vape descartável Adalya AD10000 10K sabor Lady Killer 10000 puffs 10K tragadas ao preço mais barato" [ref=e184]
+                  - img "Vape descartável Adalya AD10000 10K com alto desempenho 10000 puffs 10K tragadas ao preço mais barato" [ref=e185]
+              - generic [ref=e188]: Descontos até -50%
+            - generic [ref=e189]:
+              - generic [ref=e190]:
+                - heading "Adalya AD10000 10K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e191]:
+                  - link "Adalya AD10000 10K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e192] [cursor=pointer]:
+                    - /url: /products/adalya-ad10000-10k-vape-descartavel-portugal
+                    - text: Adalya AD10000 10K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e193]:
+                  - generic [ref=e194]: Adalya
+                  - generic [ref=e197]:
+                    - generic [ref=e198]: Preço normal
+                    - generic [ref=e200]: €25,00 EUR
+                    - generic [ref=e201]: Preço de saldo
+                    - generic [ref=e202]: €20,00 EUR
+              - button "Escolher sabores Adalya AD10000 10K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e205] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e206]:
+          - generic [ref=e208]:
+            - generic [ref=e209]:
+              - generic [ref=e210]:
+                - generic [ref=e212]: Nova Chegada
+                - generic [ref=e213]:
+                  - img "Vape descartável Blur 15K sabor Strawberry Grape 15000 puffs 15K tragadas mais barato" [ref=e214]
+                  - img "Vape descartável Blur 15K sabor Original 15000 puffs 15K tragadas mais barato" [ref=e215]
+              - generic [ref=e218]: Descontos até -50%
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - heading "Blur 15000 15K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e221]:
+                  - link "Blur 15000 15K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e222] [cursor=pointer]:
+                    - /url: /products/blur-15k-vape-descartavel-portugal
+                    - text: Blur 15000 15K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e223]:
+                  - generic [ref=e224]: Blur
+                  - generic [ref=e227]:
+                    - generic [ref=e228]: Preço normal
+                    - generic [ref=e230]: €23,00 EUR
+                    - generic [ref=e231]: Preço de saldo
+                    - generic [ref=e232]: €17,00 EUR
+              - button "Escolher sabores Blur 15000 15K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e235] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e236]:
+          - generic [ref=e238]:
+            - generic [ref=e239]:
+              - generic [ref=e241]:
+                - img "Vape descartável MerryMi Mecha Pro 35K sabor Watermelon Ice 35000 puffs 35K tragadas mais barato" [ref=e242]
+                - img "Vape descartável MerryMi Mecha Pro 35K 35000 puffs 35K tragadas mais barato" [ref=e243]
+              - generic [ref=e246]: Descontos até -50%
+            - generic [ref=e247]:
+              - generic [ref=e248]:
+                - heading "MerryMi Mecha Pro 35K Puffs | Vape Descartável Portugal 2-5% Nicotina Descontos até -50%" [level=3] [ref=e249]:
+                  - link "MerryMi Mecha Pro 35K Puffs | Vape Descartável Portugal 2-5% Nicotina Descontos até -50%" [ref=e250] [cursor=pointer]:
+                    - /url: /products/merry-mi-mecha-pro-35k-vape-descartavel-portugal
+                    - text: MerryMi Mecha Pro 35K Puffs | Vape Descartável Portugal 2-5% Nicotina
+                - generic [ref=e251]:
+                  - generic [ref=e252]: MerryMi
+                  - generic [ref=e255]:
+                    - generic [ref=e256]: Preço normal
+                    - generic [ref=e258]: €29,50 EUR
+                    - generic [ref=e259]: Preço de saldo
+                    - generic [ref=e260]: €24,50 EUR
+              - button "Escolher sabores MerryMi Mecha Pro 35K Puffs | Vape Descartável Portugal 2-5% Nicotina" [ref=e263] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e264]:
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - generic [ref=e269]:
+                - img "Vape descartável Fumot RandM Tornado 9K sabor Blueberry Raspberry 9000 puffs 9K tragadas mais barato" [ref=e270]
+                - img "Vape descartável Fumot RandM Tornado 9K sabor Black Dragon Ice 9000 puffs 9K tragadas mais barato" [ref=e271]
+              - generic [ref=e274]: Descontos até -50%
+            - generic [ref=e275]:
+              - generic [ref=e276]:
+                - heading "RandM Tornado 9K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e277]:
+                  - link "RandM Tornado 9K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e278] [cursor=pointer]:
+                    - /url: /products/randm-tornado-9k-vape-descartavel-portugal
+                    - text: RandM Tornado 9K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e279]:
+                  - generic [ref=e280]: Fumot
+                  - generic [ref=e283]:
+                    - generic [ref=e284]: Preço normal
+                    - generic [ref=e286]: €19,50 EUR
+                    - generic [ref=e287]: Preço de saldo
+                    - generic [ref=e288]: €14,50 EUR
+              - button "Escolher sabores RandM Tornado 9K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e291] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e292]:
+          - generic [ref=e294]:
+            - generic [ref=e295]:
+              - generic [ref=e297]:
+                - img "Vape descartável JNR Leopard sabor Mixed Berry 40000 puffs 40K tragadas mais barato" [ref=e298]
+                - img "Vape descartável JNR Leopard 40000 puffs 40K tragadas mais barato" [ref=e299]
+              - generic [ref=e302]: Descontos até -50%
+            - generic [ref=e303]:
+              - generic [ref=e304]:
+                - heading "JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e305]:
+                  - link "JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e306] [cursor=pointer]:
+                    - /url: /products/jnr-leopard-40k-vape-descartavel-portugal
+                    - text: JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina
+                - generic [ref=e307]:
+                  - generic [ref=e308]: JNR
+                  - generic [ref=e311]:
+                    - generic [ref=e312]: Preço normal
+                    - generic [ref=e314]: €31,00 EUR
+                    - generic [ref=e315]: Preço de saldo
+                    - generic [ref=e316]: €26,00 EUR
+              - button "Escolher sabores JNR Leopard 40K Puffs | Vape Descartável Portugal 2% Nicotina" [ref=e319] [cursor=pointer]: Escolher sabores
+        - listitem [ref=e320]:
+          - generic [ref=e322]:
+            - generic [ref=e323]:
+              - generic [ref=e325]:
+                - img "Líquido MerryMi Salts 30ml sabor Tropical Citrus Fizz com sais de nicotina 5% (50mg/ml) para pod – aroma cítrico refrescante mais barato" [ref=e326]
+                - img "Líquido MerryMi Salts 30ml com sais de nicotina 5% (50mg/ml) para pod – sabor intenso e absorção rápida mais barato" [ref=e327]
+              - generic [ref=e330]: Descontos até -50%
+            - generic [ref=e331]:
+              - generic [ref=e332]:
+                - heading "MerryMi Salts 30ml Líquido para Vape | Sais de Nicotina 5% (50mg/ml) Descontos até -50%" [level=3] [ref=e333]:
+                  - link "MerryMi Salts 30ml Líquido para Vape | Sais de Nicotina 5% (50mg/ml) Descontos até -50%" [ref=e334] [cursor=pointer]:
+                    - /url: /products/merrymi-salts-portugal
+                    - text: MerryMi Salts 30ml Líquido para Vape | Sais de Nicotina 5% (50mg/ml)
+                - generic [ref=e335]:
+                  - generic [ref=e336]: MerryMi
+                  - generic [ref=e339]:
+                    - generic [ref=e340]: Preço normal
+                    - generic [ref=e342]: €13,50 EUR
+                    - generic [ref=e343]: Preço de saldo
+                    - generic [ref=e344]: €12,90 EUR
+              - button "Escolher sabores MerryMi Salts 30ml Líquido para Vape | Sais de Nicotina 5% (50mg/ml)" [ref=e347] [cursor=pointer]: Escolher sabores
+      - link "Ver todos os produtos da coleção Vapes Descartáveis" [ref=e349] [cursor=pointer]:
+        - /url: /collections/vapes-descartaveis-portugal
+        - text: Ver mais
+    - generic [ref=e352]:
+      - generic [ref=e354]:
+        - heading "Vape Descartável – Praticidade e Sabor em Cada Puff" [level=2] [ref=e355]
+        - paragraph [ref=e356]: Os vapes descartáveis são a escolha perfeita para quem procura um cigarro eletrónico simples e eficiente. Sem necessidade de recarga ou manutenção, basta abrir e começar a usar.
+        - link "Comprar Vape Descartável" [ref=e357] [cursor=pointer]:
+          - /url: /collections/vapes-descartaveis-portugal
+      - generic [ref=e358]:
+        - generic [ref=e359]:
+          - img "Líquidos de nicotina em Portugal na vapeportugal.pt com variedade de sabores para vape e melhores preços" [ref=e360]
+          - generic [ref=e361]:
+            - heading "E-Líquidos – Sabores Intensos para Vaping" [level=2] [ref=e362]
+            - paragraph [ref=e363]: Descobre uma ampla seleção de e-líquidos para o teu vape, com sabores de vape únicos e intensos. Desde frutas frescas até combinações doces e refrescantes, há opções para todos os gostos.
+            - link "Comprar E-Líquidos" [ref=e364] [cursor=pointer]:
+              - /url: /collections/liquidos-sais-nicotina-portugal
+        - generic [ref=e365]:
+          - img "Snus sem tabaco em Portugal na vapeportugal.pt com melhores ofertas e variedade de sabores" [ref=e366]
+          - generic [ref=e367]:
+            - heading "Snus – Alternativa Moderna Sem Fumo" [level=2] [ref=e368]
+            - paragraph [ref=e369]: O snus é uma alternativa inovadora ao cigarro eletrónico e ao vape, ideal para quem procura consumir nicotina sem vapor ou combustão.
+            - link "Comprar Snus" [ref=e370] [cursor=pointer]:
+              - /url: /collections/snus-saquetas-nicotina-portugal
+    - generic [ref=e373]:
+      - heading "Productos novos" [level=2] [ref=e375]
+      - list "Slider" [ref=e377]:
+        - listitem [ref=e378]:
+          - generic [ref=e380]:
+            - generic [ref=e381]:
+              - generic [ref=e382]:
+                - generic [ref=e384]: Novo
+                - img "Vape descartável Al Fakher Crown Bar EHose X 60K sabor Berry Blue 60000 puffs 60K tragadas ao preço mais barato" [ref=e386]
+              - generic [ref=e389]: Descontos até -50%
+            - generic [ref=e391]:
+              - heading "Al Fakher Crown Bar E-Hose X 60K Puffs | Vape Descartável Portugal 0.6% Nicotina Descontos até -50%" [level=3] [ref=e392]:
+                - link "Al Fakher Crown Bar E-Hose X 60K Puffs | Vape Descartável Portugal 0.6% Nicotina Descontos até -50%" [ref=e393] [cursor=pointer]:
+                  - /url: /products/al-fakher-crown-bar-e-hose-x-60k-vape-descartavel-portugal
+                  - text: Al Fakher Crown Bar E-Hose X 60K Puffs | Vape Descartável Portugal 0.6% Nicotina
+              - generic [ref=e397]:
+                - generic [ref=e398]: Preço normal
+                - generic [ref=e400]: €42,00 EUR
+                - generic [ref=e401]: Preço de saldo
+                - generic [ref=e402]: €37,00 EUR
+        - listitem [ref=e403]:
+          - generic [ref=e405]:
+            - generic [ref=e406]:
+              - generic [ref=e407]:
+                - generic [ref=e409]: Novo
+                - img "Vape descartável Fumot Eco 2 em 1 50K sabor Black Mamba Mr Blue 50000 puffs 50K tragadas mais barato" [ref=e411]
+              - generic [ref=e414]: Descontos até -50%
+            - generic [ref=e416]:
+              - heading "Fumot ECO 2in1 50K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e417]:
+                - link "Fumot ECO 2in1 50K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e418] [cursor=pointer]:
+                  - /url: /products/fumot-eco-50k-vape-descartavel-portugal
+                  - text: Fumot ECO 2in1 50K Puffs | Vape Descartável Portugal 2% Nicotina
+              - generic [ref=e422]:
+                - generic [ref=e423]: Preço normal
+                - generic [ref=e425]: €39,50 EUR
+                - generic [ref=e426]: Preço de saldo
+                - generic [ref=e427]: €34,50 EUR
+        - listitem [ref=e428]:
+          - generic [ref=e430]:
+            - generic [ref=e431]:
+              - generic [ref=e432]:
+                - generic [ref=e434]: Novo
+                - img "Vape descartável Adalya ADL PRO360 20K sabor Bagdadi 20000 puffs 20K tragadas ao preço mais barato" [ref=e436]
+              - generic [ref=e439]: Descontos até -50%
+            - generic [ref=e441]:
+              - heading "Adalya ADL PRO 360 20K Puffs | Vape Descartável Portugal 0.5-2% Nicotina Descontos até -50%" [level=3] [ref=e442]:
+                - link "Adalya ADL PRO 360 20K Puffs | Vape Descartável Portugal 0.5-2% Nicotina Descontos até -50%" [ref=e443] [cursor=pointer]:
+                  - /url: /products/adalya-adl-pro-360-20k-vape-descartavel-portugal
+                  - text: Adalya ADL PRO 360 20K Puffs | Vape Descartável Portugal 0.5-2% Nicotina
+              - generic [ref=e447]:
+                - generic [ref=e448]: Preço normal
+                - generic [ref=e450]: €33,80 EUR
+                - generic [ref=e451]: Preço de saldo
+                - generic [ref=e452]: €28,80 EUR
+        - listitem [ref=e453]:
+          - generic [ref=e455]:
+            - generic [ref=e456]:
+              - generic [ref=e457]:
+                - generic [ref=e459]: Novo
+                - img "Vape descartável Fumot RandM Tornado 15K sabor Grape Ice 15000 puffs 15K tragadas mais barato" [ref=e461]
+              - generic [ref=e464]: Descontos até -50%
+            - generic [ref=e466]:
+              - heading "Fumot Tornado 15K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [level=3] [ref=e467]:
+                - link "Fumot Tornado 15K Puffs | Vape Descartável Portugal 2% Nicotina Descontos até -50%" [ref=e468] [cursor=pointer]:
+                  - /url: /products/fumot-tornado-15k-vape-descartavel-portugal
+                  - text: Fumot Tornado 15K Puffs | Vape Descartável Portugal 2% Nicotina
+              - generic [ref=e472]:
+                - generic [ref=e473]: Preço normal
+                - generic [ref=e475]: €24,50 EUR
+                - generic [ref=e476]: Preço de saldo
+                - generic [ref=e477]: €19,50 EUR
+      - link "Ver todos os produtos da coleção Produtos Novos" [ref=e479] [cursor=pointer]:
+        - /url: /collections/produtos-novos-portugal
+        - text: Ver mais
+    - generic [ref=e482]:
+      - heading "As nossas marcas" [level=2] [ref=e484]
+      - generic [ref=e485]:
+        - button "Previous brands" [disabled]:
+          - img
+        - generic [ref=e486]:
+          - link "Logótipo VapSolo vape descartável Portugal" [ref=e487] [cursor=pointer]:
+            - /url: /collections/vapsolo-vapes-descartaveis-portugal
+            - img "Logótipo VapSolo vape descartável Portugal" [ref=e489]
+          - link "Logótipo JNR vape descartável Portugal" [ref=e490] [cursor=pointer]:
+            - /url: /collections/jnr-vapes-descartaveis-portugal
+            - img "Logótipo JNR vape descartável Portugal" [ref=e492]
+          - link "Logótipo Fumot vape descartável Portugal" [ref=e493] [cursor=pointer]:
+            - /url: /collections/fumot-vapes-descartaveis-portugal
+            - img "Logótipo Fumot vape descartável Portugal" [ref=e495]
+          - link "Logótipo MerryMi vape descartável Portugal" [ref=e496] [cursor=pointer]:
+            - /url: /collections/merrymi-vape-descartaveis-portugal
+            - img "Logótipo MerryMi vape descartável Portugal" [ref=e498]
+          - link "Logótipo Adalya vape descartável Portugal" [ref=e499] [cursor=pointer]:
+            - /url: /collections/adalya-vapes-descartaveis-portugal
+            - img "Logótipo Adalya vape descartável Portugal" [ref=e501]
+          - link "Logótipo Al Fakher vape descartável Portugal" [ref=e502] [cursor=pointer]:
+            - /url: /collections/al-fakher-vapes-descartaveis-portugal
+            - img "Logótipo Al Fakher vape descartável Portugal" [ref=e504]
+          - link "Logótipo Blur vape descartável Portugal" [ref=e505] [cursor=pointer]:
+            - /url: /collections/blur-vapes-descartaveis-portugal
+            - img "Logótipo Blur vape descartável Portugal" [ref=e507]
+          - link "Logótipo Ghost vape descartável Portugal" [ref=e508] [cursor=pointer]:
+            - /url: /collections/ghost-vapes-descartaveis-portugal
+            - img "Logótipo Ghost vape descartável Portugal" [ref=e510]
+          - link "Logótipo Vozol vape descartável Portugal" [ref=e511] [cursor=pointer]:
+            - /url: /collections/vozol-vapes-descartaveis-portugal
+            - img "Logótipo Vozol vape descartável Portugal" [ref=e513]
+          - link "Logótipo Hayati vape descartável Portugal" [ref=e514] [cursor=pointer]:
+            - /url: /collections/hayati-vapes-descartaveis-portugal
+            - img "Logótipo Hayati vape descartável Portugal" [ref=e516]
+          - link "Logótipo SMOK vape descartável Portugal" [ref=e517] [cursor=pointer]:
+            - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+            - img "Logótipo SMOK vape descartável Portugal" [ref=e519]
+          - link "Logótipo iMoment vape descartável Portugal" [ref=e520] [cursor=pointer]:
+            - /url: /collections/imoment-vapes-descartaveis-portugal
+            - img "Logótipo iMoment vape descartável Portugal" [ref=e522]
+          - link "Logótipo Airmez vape descartável Portugal" [ref=e523] [cursor=pointer]:
+            - /url: /collections/airmez-vapes-descartaveis-portugal
+            - img "Logótipo Airmez vape descartável Portugal" [ref=e525]
+        - button "Next brands" [ref=e526] [cursor=pointer]:
+          - img [ref=e527]
+    - generic [ref=e532]:
+      - generic [ref=e533]:
+        - generic [ref=e534]: 💬
+        - generic [ref=e535]:
+          - heading "Apoio ao Cliente" [level=3] [ref=e536]
+          - paragraph [ref=e537]: Contacte-nos facilmente via WhatsApp
+      - generic [ref=e538]:
+        - generic [ref=e539]: ↩️
+        - generic [ref=e540]:
+          - heading "Política de Devolução 100% Segura" [level=3] [ref=e541]
+          - paragraph [ref=e542]: Compre com total confiança
+      - generic [ref=e543]:
+        - generic [ref=e544]: 🇵🇹
+        - generic [ref=e545]:
+          - heading "Envio Nacional" [level=3] [ref=e546]
+          - paragraph [ref=e547]: Envios para todo o território de Portugal
+      - generic [ref=e548]:
+        - generic [ref=e549]: 🔒
+        - generic [ref=e550]:
+          - heading "Pagamento Seguro" [level=3] [ref=e551]
+          - paragraph [ref=e552]: Apple Pay, Google Pay, PayPal, Visa, Mastercard, MB Way
+      - generic [ref=e553]:
+        - generic [ref=e554]: 🍭
+        - generic [ref=e555]:
+          - heading "Mais de 1000 sabores" [level=3] [ref=e556]
+          - paragraph [ref=e557]: Sabores únicos de mais de 20 marcas de topo
+      - generic [ref=e558]:
+        - generic [ref=e559]: 🚚
+        - generic [ref=e560]:
+          - heading "Envio Rápido" [level=3] [ref=e561]
+          - paragraph [ref=e562]: Envio gratuito 📦🇵🇹 – entrega em 3 a 5 dias úteis
+      - generic [ref=e563]:
+        - generic [ref=e564]: ✅
+        - generic [ref=e565]:
+          - heading "100% Autenticidade Garantida" [level=3] [ref=e566]
+          - paragraph [ref=e567]: Oferecemos apenas produtos 100% originais
+      - generic [ref=e568]:
+        - generic [ref=e569]: 🔥
+        - generic [ref=e570]:
+          - heading "Descontos Disponíveis" [level=3] [ref=e571]
+          - paragraph [ref=e572]: Aproveite até 50% de desconto
+    - generic [ref=e575]:
+      - generic [ref=e577]:
+        - 'heading "VapePortugal.pt: Vapes Descartáveis, Bolsas de Nicotina e Líquidos em Portugal" [level=1] [ref=e578]'
+        - paragraph [ref=e579]: Na VapePortugal.pt encontras a melhor seleção de vapes descartáveis, bolsas de nicotina (snus sem tabaco) e líquidos para vape em Portugal.
+        - paragraph [ref=e580]: Trabalhamos apenas com marcas reconhecidas internacionalmente para garantir qualidade, desempenho e uma experiência premium em cada utilização.
+        - paragraph [ref=e581]:
+          - text: Se procuras um vape descartável potente, uma alternativa discreta sem fumo ou novos líquidos com sabores intensos, aqui tens tudo num só lugar — com envio rápido e preços competitivos.
+          - text: 🔥 Marcas Premium Disponíveis
+        - paragraph [ref=e582]: "Disponibilizamos uma seleção completa das marcas mais procuradas do mercado:"
+        - paragraph [ref=e583]:
+          - strong [ref=e584]: VapSolo, MerryMi, JNR, Fumot, Adalya, Al Fakher, Blur, Ghost, Vozol, SMOK Spaceman, Hayati, Airmez, iMoment
+        - heading "💨 Vapes Descartáveis em Portugal" [level=2] [ref=e585]
+        - paragraph [ref=e586]: Descobre dispositivos com diferentes níveis de autonomia, desde modelos compactos até opções de alta capacidade com até 120000 tragadas.
+        - paragraph [ref=e587]:
+          - text: ✔ Prontos a usar
+          - text: ✔ Sabores intensos e consistentes
+          - text: ✔ Tecnologia Mesh Coil
+          - text: ✔ Carregamento USB-C
+          - text: ✔ Ideais para iniciantes e utilizadores avançados
+        - paragraph [ref=e588]: 👉 Escolhe o vape perfeito para o teu estilo
+        - heading "⚡ Bolsas de Nicotina (Snus Sem Tabaco)" [level=2] [ref=e589]
+        - paragraph [ref=e590]: Para quem procura uma alternativa moderna e discreta, oferecemos bolsas de nicotina sem tabaco, também conhecidas como snus sem tabaco.
+        - paragraph [ref=e591]:
+          - text: ✔ Sem fumo nem vapor
+          - text: ✔ Uso discreto em qualquer lugar
+          - text: ✔ Diferentes níveis de nicotina
+          - text: ✔ Ideal para consumo diário
+        - paragraph [ref=e592]: 👉 Solução prática e eficaz para utilizadores exigentes
+        - heading "🧪 Líquidos para Vape" [level=2] [ref=e593]
+        - paragraph [ref=e594]: "Explora a nossa gama de líquidos para vape com e sem sais de nicotina, com sabores cuidadosamente selecionados:"
+        - paragraph [ref=e595]:
+          - text: ✔ Frutados, mentolados e doces
+          - text: ✔ Sabores intensos e equilibrados
+          - text: ✔ Compatíveis com diversos dispositivos
+          - text: ✔ Qualidade premium garantida
+        - heading "🍓 Sabores Mais Procurados" [level=2] [ref=e596]
+        - paragraph [ref=e597]: Frutas tropicais 🍍
+        - paragraph [ref=e598]: Misturas doces 🍓🍬
+        - paragraph [ref=e599]: Mentolados refrescantes ❄️
+        - paragraph [ref=e600]: Combinações exóticas 🫐
+        - paragraph [ref=e601]: 👉 Experiências únicas em cada utilização
+        - heading "🚨 Stock Limitado em Portugal" [level=2] [ref=e602]
+        - paragraph [ref=e603]:
+          - text: 🔥 Alta procura
+          - text: 🔥 Novidades constantes
+          - text: 🔥 Produtos mais vendidos
+        - paragraph [ref=e604]: 👉 Compra agora antes de esgotar
+        - heading "🚚 Envio Rápido e Grátis" [level=2] [ref=e605]
+        - paragraph [ref=e606]:
+          - text: ✔ Envio grátis para Portugal 🇵🇹
+          - text: ✔ Entrega em 3 a 5 dias úteis
+          - text: ✔ Produtos 100% originais
+        - heading "⚠️ Informação Importante" [level=2] [ref=e607]
+        - paragraph [ref=e608]:
+          - text: 🔞 Produto destinado a maiores de 18 anos
+          - text: A nicotina é uma substância altamente viciante
+      - button "Ver mais" [ref=e610] [cursor=pointer]
+  - generic [ref=e613]:
+    - generic [ref=e614]:
+      - generic [ref=e615]:
+        - heading "As Nossas Marcas" [level=3] [ref=e616]
+        - list [ref=e618]:
+          - listitem [ref=e619]:
+            - link "VAPSOLO" [ref=e620] [cursor=pointer]:
+              - /url: /collections/vapsolo-vapes-descartaveis-portugal
+          - listitem [ref=e621]:
+            - link "JNR" [ref=e622] [cursor=pointer]:
+              - /url: /collections/jnr-vapes-descartaveis-portugal
+          - listitem [ref=e623]:
+            - link "FUMOT" [ref=e624] [cursor=pointer]:
+              - /url: /collections/fumot-vapes-descartaveis-portugal
+          - listitem [ref=e625]:
+            - link "MERRYMI" [ref=e626] [cursor=pointer]:
+              - /url: /collections/merrymi-vape-descartaveis-portugal
+          - listitem [ref=e627]:
+            - link "ADALYA" [ref=e628] [cursor=pointer]:
+              - /url: /collections/adalya-vapes-descartaveis-portugal
+          - listitem [ref=e629]:
+            - link "AL FAKHER" [ref=e630] [cursor=pointer]:
+              - /url: /collections/al-fakher-vapes-descartaveis-portugal
+          - listitem [ref=e631]:
+            - link "BLUR" [ref=e632] [cursor=pointer]:
+              - /url: /collections/blur-vapes-descartaveis-portugal
+          - listitem [ref=e633]:
+            - link "HAYATI" [ref=e634] [cursor=pointer]:
+              - /url: /collections/hayati-vapes-descartaveis-portugal
+          - listitem [ref=e635]:
+            - link "GHOST" [ref=e636] [cursor=pointer]:
+              - /url: /collections/ghost-vapes-descartaveis-portugal
+          - listitem [ref=e637]:
+            - link "VOZOL" [ref=e638] [cursor=pointer]:
+              - /url: /collections/vozol-vapes-descartaveis-portugal
+          - listitem [ref=e639]:
+            - link "AIRMEZ" [ref=e640] [cursor=pointer]:
+              - /url: /collections/airmez-vapes-descartaveis-portugal
+          - listitem [ref=e641]:
+            - link "SPACEMAN" [ref=e642] [cursor=pointer]:
+              - /url: /collections/smok-spaceman-vapes-descartaveis-portugal
+          - listitem [ref=e643]:
+            - link "ELUX" [ref=e644] [cursor=pointer]:
+              - /url: /collections
+          - listitem [ref=e645]:
+            - link "WGA" [ref=e646] [cursor=pointer]:
+              - /url: /collections
+          - listitem [ref=e647]:
+            - link "ELFBAR" [ref=e648] [cursor=pointer]:
+              - /url: /collections
+      - generic [ref=e649]:
+        - heading "Informação útil" [level=3] [ref=e650]
+        - generic [ref=e651]:
+          - listitem [ref=e652]:
+            - link "Envios" [ref=e653] [cursor=pointer]:
+              - /url: /pages/envios
+          - listitem [ref=e654]:
+            - link "Informações Legais" [ref=e655] [cursor=pointer]:
+              - /url: /pages/informacoes-legais
+          - listitem [ref=e656]:
+            - link "Termos e condições" [ref=e657] [cursor=pointer]:
+              - /url: /pages/termos-e-condicoes
+          - listitem [ref=e658]:
+            - link "Política de privacidade" [ref=e659] [cursor=pointer]:
+              - /url: /pages/politica-de-privacidade
+          - listitem [ref=e660]:
+            - link "Política de devoluções" [ref=e661] [cursor=pointer]:
+              - /url: /pages/politica-de-devolucoes
+          - listitem [ref=e662]:
+            - link "Perguntas frequentes" [ref=e663] [cursor=pointer]:
+              - /url: /pages/perguntas-frequentes
+          - listitem [ref=e664]:
+            - link "Contacto" [ref=e665] [cursor=pointer]:
+              - /url: /pages/contacto
+          - listitem [ref=e666]:
+            - link "Sobre nós" [ref=e667] [cursor=pointer]:
+              - /url: /pages/sobre-nos
+          - listitem [ref=e668]:
+            - link "Blog" [ref=e669] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e670]:
+            - link "Vapes descartáveis em Portugal" [ref=e671] [cursor=pointer]:
+              - /url: /blogs/news
+          - listitem [ref=e672]:
+            - link "Confiam em nós" [ref=e673] [cursor=pointer]:
+              - /url: /pages/confiam-em-nos
+      - generic [ref=e674]:
+        - heading "Subscreva a nossa newsletter" [level=3] [ref=e675]
+        - generic [ref=e678]:
+          - textbox "correio eletrónico" [ref=e679]
+          - button "➞" [ref=e680] [cursor=pointer]
+    - generic [ref=e682]:
+      - img "Payment method" [ref=e683]
+      - img "Payment method" [ref=e684]
+      - img "Payment method" [ref=e685]
+      - img "Payment method" [ref=e686]
+      - img "Payment method" [ref=e687]
+      - img "Payment method" [ref=e688]
+    - generic [ref=e690]: © 2026 VapePortugal.pt Loja de vapes descartáveis em Portugal.
+  - img "Europe vape Descartaveil Portugal" [ref=e693]
